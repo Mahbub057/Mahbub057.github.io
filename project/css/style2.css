@@ -56,6 +56,14 @@ body{
 #mega-menu .nav-link:hover{
     border-bottom: 4px solid #00C2CB;
 }
+#mega-menu .nav-link-ok{
+    border-bottom: 4px solid transparent;
+    color: #777 !important;
+    font-size: 16px;    
+}
+#mega-menu .nav-link-ok:hover{
+    border-bottom: 4px solid #00C2CB;
+}
 #mega-menu .dropdown:hover >.dropdown-menu{
    display: block !important;
 }
